@@ -14,6 +14,9 @@ Projeto cotações | estudo NodeJS
 ## Acesse http://cotacoes-nodejs-pradella.herokuapp.com/
 
 
+
+
+
 # Para executar local
 ## depois configure as dependencias 
 `npm i`
